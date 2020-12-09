@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1bd5d57.chunk.css",
+    "main.js": "/static/js/main.613321e2.chunk.js",
+    "main.js.map": "/static/js/main.613321e2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c4071667.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c4071667.js.map",
+    "static/css/2.6f338a1f.chunk.css": "/static/css/2.6f338a1f.chunk.css",
+    "static/js/2.ba54c3d9.chunk.js": "/static/js/2.ba54c3d9.chunk.js",
+    "static/js/2.ba54c3d9.chunk.js.map": "/static/js/2.ba54c3d9.chunk.js.map",
+    "static/js/3.3a8ce9f2.chunk.js": "/static/js/3.3a8ce9f2.chunk.js",
+    "static/js/3.3a8ce9f2.chunk.js.map": "/static/js/3.3a8ce9f2.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/2.6f338a1f.chunk.css.map": "/static/css/2.6f338a1f.chunk.css.map",
+    "static/css/main.f1bd5d57.chunk.css.map": "/static/css/main.f1bd5d57.chunk.css.map",
+    "static/js/2.ba54c3d9.chunk.js.LICENSE.txt": "/static/js/2.ba54c3d9.chunk.js.LICENSE.txt",
+    "static/media/hacker-news1_logo-c6b9933e1bd8db44697993fd5cf2386ae9cab6d650276e1d0769fdceee1502aa.47d6b612.jpg": "/static/media/hacker-news1_logo-c6b9933e1bd8db44697993fd5cf2386ae9cab6d650276e1d0769fdceee1502aa.47d6b612.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4071667.js",
+    "static/css/2.6f338a1f.chunk.css",
+    "static/js/2.ba54c3d9.chunk.js",
+    "static/css/main.f1bd5d57.chunk.css",
+    "static/js/main.613321e2.chunk.js"
+  ]
+}

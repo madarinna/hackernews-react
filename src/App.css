@@ -1,0 +1,48 @@
+@import "~antd/dist/antd.css";
+
+html {
+	height: auto;
+}
+
+.site-layout-content {
+	min-height: 280px;
+	padding: 24px;
+	background: #fff;
+}
+#components-layout-demo-top .logo {
+	float: right;
+	width: 120px;
+	height: 31px;
+	margin: 16px 24px 16px 0;
+}
+.ant-row-rtl #components-layout-demo-top .logo {
+	float: right;
+	margin: 16px 0 16px 24px;
+}
+
+.ant-menu.ant-menu-dark .ant-menu-item-selected,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected {
+	background-color: orange !important;
+}
+
+.ant-menu-item:hover {
+	background-color: orange !important;
+}
+
+.logo {
+	width: 150px;
+	height: 18px;
+	margin: 16px 24px 16px 0;
+	float: left;
+}
+
+.hackernews-logo {
+	margin-bottom: 10px;
+	width: 140px;
+	height: 30px;
+	float: left;
+}
+
+.submission-text:hover {
+	color: blue;
+}
